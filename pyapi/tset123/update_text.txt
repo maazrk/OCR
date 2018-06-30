@@ -1,0 +1,1 @@
+{"process": "Segmenting Characters from Images", "field": "Surname", "total_number_of_files": 6, "current_file_number": 5}

@@ -1,0 +1,1 @@
+{"current_file_number": 0, "process": "Extracting Input Fields from Images", "total_number_of_files": 1}
