@@ -25,7 +25,7 @@
     "@devexpress/dx-react-grid": "^1.0.0",
     "@devexpress/dx-react-grid-material-ui": "^1.0.0",
     "classnames": "^2.2.5",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "konva": "^1.7.6",
     "material-ui": "1.0.0-beta.31",
     "material-ui-icons": "^1.0.0-beta.17",
